@@ -25,9 +25,8 @@ abrir el código de arduino llamado "Arduino.ino" y modificar la red Wifi por la
 de arduino anexados en el repositorio (son 3, los 3 en conjunto hacen uno solo). Después de haber prigramado la ESP32 al correr el monitor serial de esta, vendrán algunos datos,
 hay que fijarnos en el más importante que es LA DIRECCIÓN IP DE LA ESP32, esta dirección es importante para lograr la conectividad entre la ESP32 y la aplicación.
 
-Al abrir el proyecto de en Android Studio lo único que hay que hacer es modificar la dirección IP por la de tu ESP32 (Aproximadamente linea: 89) y ya está, en la aplicación hay un bloque en el que nos dice 
+Al abrir el proyecto de en Android Studio lo único que hay que hacer es modificar la dirección IP por la de tu ESP32 EN EL ARCHIVO "MAIN ACTIVITY" (Aproximadamente linea: 89) y ya está, en la aplicación hay un bloque en el que nos dice 
 cuando esta misma ha sido conectada o falló al conectar, ES IMPORTANTE QUE EL TELÉFONO EN EL QUE USEMOS LA APP Y LA ESP32 ESTÉN A LA MISMA RED DE WIFI.
 
  
-
 
