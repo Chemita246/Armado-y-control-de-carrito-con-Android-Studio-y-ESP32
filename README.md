@@ -5,7 +5,7 @@ Para implementar este proyecto es indispensable contar con algunas cosas necesar
   1.-ESP32 S3
   2.- Android 5 minímo
   3.- Conexión a wifi
-  4.- Arduino IDE (versión más reciente de preferencia)
+  4.- Arduino IDE (versión más reciente de preferencia) 
   
 El diagrama de conexión estará proporcionado por una imágen anexada aquí mismo, el diseño del carrito dependerá de ti.
 La interfaz de la aplicación es bastante intuitivá tanto que la resumiremos en:
