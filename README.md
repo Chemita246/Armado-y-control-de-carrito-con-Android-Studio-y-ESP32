@@ -28,7 +28,7 @@ Después es indispensable descargar el APK proporcionado en este repositorio, la
 Una vez instalada la aplicación y con el carrito ya armado, programado y prendido es necesario (en la aplicación) presionar el botón que tiene la leyenda "Enter ESP32 IP", hay pondremos la IP que nos dió la ESP32 y después presionamos en "Aceptar".
 Cualquier estado de "debug" se encontrarán en pantalla de la aplicación y mostrará algunas guías de peuqeños problemas que pudiera haber.
 
-Espero que disfruten del proyecto tanto como yo. Anexo el proyecto de Android Studio, sientánse libres de modificarlo para funciones extras.
+Espero que disfruten del proyecto tanto como yo. Puedo anexar el proyecto de Android Studio, para que puedan sentirse libres de modificarlo para funciones extras, comenten si lo quieren.
 
 ------------------------ Gracias por leer y visitar - Chemita 246 ------------------------
 
